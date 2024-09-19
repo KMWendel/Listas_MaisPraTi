@@ -1,5 +1,3 @@
-// INSTRUÇÕES DE USO: Para configurar e executar exercícios de JavaScript localmente deve-se instalar um editor de código (VSCode) e o Node.Js
-
 // 1. Crie um objeto carro com propriedades como marca, modelo, ano, e cor. Use for in para iterar sobre as propriedades e exibir seus valores 
 // no console.
 
